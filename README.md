@@ -78,9 +78,9 @@
 
 <div align="center">
 
-<a href="https://github.com/josephstakeland">
+<a href="https://github.com/josephstakeland" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=josephstakeland&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josephstakeland&show_icons=true&locale=en&layout=compact&&theme=radical" width="375"  alt="0xabdulkhalid"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josephstakeland&show_icons=true&locale=en&layout=compact&&theme=radical" width="375"  alt="josephstakeland"/>
 
 </a>
 </div>
