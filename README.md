@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Joseph Vazquez</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Joseph Vazquez</b>></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CF728&random=false&width=435&lines=I+like+to+read+and+look+for+new+technologies.;self-taught+front+end+developer;ctf+Newbie;Actually+studying."></a>
