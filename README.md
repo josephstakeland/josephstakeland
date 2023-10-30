@@ -16,7 +16,7 @@
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
-- Personal website [link](https://josephstakeland.github.io/Portfolio/)
+- Personal website <a href="https://josephstakeland.github.io/Portfolio/" target="_blank">link.</a>
 - I’m currently open for an Intern or a new job opportunity.
 
 <br><br>
@@ -99,7 +99,7 @@
 <div align='left'>
 <ul>
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+<a href="https://linkedin.com/in/josephstakeland" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  josephstakeland-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
